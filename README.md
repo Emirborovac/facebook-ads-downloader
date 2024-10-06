@@ -38,7 +38,7 @@ Navigate to the homepage: Open your browser and go to http://localhost:8000.
 Download Videos: Enter the URL of the Facebook ad you want to download, and the app will automatically process and download the video for you.
 
 
-![App Screenshot](./screen.png)`
+![App Screenshot](./screen.png)
 
 ## Debugging and Logging
 
