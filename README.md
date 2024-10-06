@@ -13,13 +13,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-repo/video-downloader.git
 cd video-downloader
-
+''' 
 Install dependencies: Make sure you have Python and pip installed. Install the required packages by running:
 
 
-
+```bash
 pip install -r requirements.txt
 ```
+
+
+
 Set up the Django project: Run the following commands to set up the database and start the server:
 
 
